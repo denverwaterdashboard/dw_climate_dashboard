@@ -1,0 +1,7 @@
+name: den
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - ulmo
+  - openpyxl
