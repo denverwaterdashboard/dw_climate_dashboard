@@ -1,8 +1,8 @@
 setuptools
 arrow
 folium
-matplotlib==3.5
-numpy==1.23
+matplotlib
+numpy==1.25
 pandas==1.5
 pymannkendall
 requests
