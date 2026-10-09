@@ -3,7 +3,7 @@ arrow
 folium
 matplotlib==3.5
 numpy==1.23
-pandas==1.4
+pandas==1.5
 pymannkendall
 requests
 streamlit_folium
