@@ -1,8 +1,9 @@
-arrow==1.2.2
-folium==0.12.1.post1
-matplotlib==3.5.2
-numpy==1.23.0
-pandas==1.4.3
-pymannkendall==1.4.2
-requests==2.28.1
-streamlit_folium==0.6.14
+setuptools
+arrow
+folium
+matplotlib
+numpy==1.25
+pandas==1.5
+pymannkendall
+requests
+streamlit_folium
