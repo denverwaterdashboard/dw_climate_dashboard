@@ -1,3 +1,4 @@
+setuptools
 arrow
 folium
 matplotlib==3.5
